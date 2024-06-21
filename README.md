@@ -7,3 +7,5 @@ TODO:
 - Combine the enemy and log files into one
 - Add sinking turtles
 - Make the collision functions more accurate 
+
+License: MIT
